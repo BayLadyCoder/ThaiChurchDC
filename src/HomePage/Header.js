@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import Navigation from "./Navigation";
 import WelcomeText from "./WelcomeText";
-import "./App.css";
+
+import "../App.css";
 
 class Header extends Component {
 	render() {
