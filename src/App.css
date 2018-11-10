@@ -110,5 +110,8 @@ body {
   width: 65%;
   text-align: justify;
   font-size: 18px;
-  padding-bottom: 20px;
+}
+
+.collectionImg {
+  padding: 20px 0px;
 }

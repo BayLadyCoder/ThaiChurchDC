@@ -18,6 +18,7 @@ class HomeContent extends Component {
 					who have faith in Jesus Christ.
 				</p>
 				<img
+					className="collectionImg"
 					src="https://thaichristianchurchdc.files.wordpress.com/2018/02/fe934912-6ffd-4714-a04b-8ecc1296c883_profile.jpg?w=455&h=341"
 					alt="collection"
 				/>
