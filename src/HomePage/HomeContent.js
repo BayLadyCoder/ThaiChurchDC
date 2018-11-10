@@ -22,6 +22,20 @@ class HomeContent extends Component {
 					src="https://thaichristianchurchdc.files.wordpress.com/2018/02/fe934912-6ffd-4714-a04b-8ecc1296c883_profile.jpg?w=455&h=341"
 					alt="collection"
 				/>
+				<h2>จุดมุ่งหมายของคริสตจักรไทย (Mission Statement)</h2>
+
+				<p className="content">
+					1. สรรเสริญและถวายเกียรติพระเจ้า (Praise and glorify God)
+					<br />
+					2. สั่งสอนและสร้างคนให้เป็นสาวกของพระเยซูคริสต์ (Preparing and
+					equipping Christ’s disciples)
+					<br />
+					3. ส่งเสริมให้ทุกคนปฏิบัติตามพระมหาบัญชาขององค์พระเยซูคริสต์
+					ซึ่งได้บันทึกไว้
+					<br />
+					ในพระกิตติคุณมัทธิว 28:19-20 (Promote the obedience of Jesus command
+					in Matthew 28:19-20)
+				</p>
 			</div>
 		);
 	}
