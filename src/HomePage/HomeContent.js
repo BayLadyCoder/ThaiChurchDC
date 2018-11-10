@@ -22,7 +22,7 @@ class HomeContent extends Component {
 					src="https://thaichristianchurchdc.files.wordpress.com/2018/02/fe934912-6ffd-4714-a04b-8ecc1296c883_profile.jpg?w=455&h=341"
 					alt="collection"
 				/>
-				<h2>จุดมุ่งหมายของคริสตจักรไทย (Mission Statement)</h2>
+				<h2>จุดมุ่งหมายของคริสตจักรไทยวอชิงตันดีซี (Mission Statement)</h2>
 
 				<p className="content">
 					1. สรรเสริญและถวายเกียรติพระเจ้า (Praise and glorify God)
