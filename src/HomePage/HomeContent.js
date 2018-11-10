@@ -6,7 +6,7 @@ class HomeContent extends Component {
 	render() {
 		return (
 			<div className="homeContent">
-				<h1> Thai Christian Church DC </h1>
+				<h1> Thai Christian Church Washington DC </h1>
 				<p className="content">
 					Thai Christian Church Washington DC(TCCDC), is the church for our
 					family to come and enjoy our blessing time from God our father. Our
