@@ -41,7 +41,7 @@ class Footer extends Component {
 					</div>
 				</div>
 				<div className="footerCopyright">
-					<div>Copyright Thai Christian Church DC 2017</div>
+					<div>&copy; Thai Christian Church Washington DC 2017</div>
 
 					<div className="byBay">Website by Bay</div>
 				</div>
