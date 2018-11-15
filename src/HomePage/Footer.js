@@ -7,44 +7,46 @@ class Footer extends Component {
 				<div className="footerMenuContainer">
 					<div className="footerSitemap">
 						<a href="#" className="footerMenu">
-							Home
-						</a>
+							Home{" "}
+						</a>{" "}
 						<a href="#" className="footerMenu">
-							Contact
-						</a>
+							Contact{" "}
+						</a>{" "}
 						<a href="#" className="footerMenu">
-							Events
-						</a>
+							Events{" "}
+						</a>{" "}
 						<a href="#" className="footerMenu">
-							Become a Member
-						</a>
+							Become a Member{" "}
+						</a>{" "}
 						<a href="#" className="footerMenu">
-							Prayer Request
-						</a>
+							Prayer Request{" "}
+						</a>{" "}
 						<a href="#" className="footerMenu">
-							Donations
-						</a>
+							Donations{" "}
+						</a>{" "}
 						<a href="#" className="footerMenu">
-							Worship Service
-						</a>
-					</div>
-					<div className="footerSocialMedias">
-						<div>Connect Facebook Instagram Youtube</div>
-						<div>Hear from us ... SIGN UP</div>
-					</div>
-					<div className="footerContact">
-						<div>Thai Church DC Location:</div>
+							Worship Service{" "}
+						</a>{" "}
+					</div>{" "}
+					<div className="footerSocialMedia">
 						<div>
-							Phone: 111-222-3333
-							<br /> Email: email@email.com
-						</div>
-					</div>
-				</div>
+							{" "}
+							Connect <i class="fab fa-facebook-square"> </i>{" "}
+							<i class="fab fa-instagram" /> <i class="fab fa-youtube-square" />
+						</div>{" "}
+						<div> Hear from us...SIGN UP </div>{" "}
+					</div>{" "}
+					<div className="footerContact">
+						<div> Thai Church DC Location: </div>{" "}
+						<div>
+							Phone: 111 - 222 - 3333 <br /> Email: email @email.com{" "}
+						</div>{" "}
+					</div>{" "}
+				</div>{" "}
 				<div className="footerCopyright">
-					<div>&copy; Thai Christian Church Washington DC 2017</div>
-
-					<div className="byBay">Website by Bay</div>
-				</div>
+					<div> & copy; Thai Christian Church Washington DC 2017 </div>
+					<div className="byBay"> Website by Bay </div>{" "}
+				</div>{" "}
 			</div>
 		);
 	}
