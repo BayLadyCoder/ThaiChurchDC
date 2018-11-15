@@ -34,7 +34,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.9);
   width: 100vw;
   height: 55px;
   display: flex;
@@ -56,12 +56,15 @@ body {
   text-align: center;
   padding: 0 20px;
   font-size: 25px;
+  font-weight: bold;
   color: #fff;
+  /* color: rgb(9, 140, 228); */
   text-decoration: none;
 }
 
 .navBtn:visited {
   color: #fff;
+  color: rgb(137, 188, 255);
 }
 
 .navBtn:hover {
@@ -121,4 +124,79 @@ body {
 h2 {
   padding: 0;
   margin: 0;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  background-color: rgb(61, 61, 61);
+  padding: 0 15px;
+  color: white;
+}
+
+.footerMenuContainer {
+  width: 100%;
+  display: flex;
+  /* justify-content: center; */
+  /* flex-direction: column; */
+  justify-content: space-around;
+
+}
+
+.footerSitemap {
+  /* width: 100%; */
+  display: flex;
+  /* justify-content: center; */
+  flex-direction: column;
+  padding: 10px 0;
+}
+
+.footerMenu {
+  font-size: 22px;
+  text-decoration: none;
+  padding: 5px;
+  margin: 0px;
+  /* width: 150px; */
+  /* background-color: lightblue; */
+  color: rgb(137, 188, 255);
+  font-weight: bold;
+}
+
+.footerContact1 {
+  /* width: 100vw; */
+  /* padding: 0 100px; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(61, 61, 61);
+}
+
+
+
+
+.footerSocialMedias {
+  display: flex;
+  justify-content: center;
+  align-items: space-between;
+  flex-direction: column;
+  padding: 0 0 15px 0;
+  /* padding: 0 100px; */
+}
+
+.footerCopyright {
+  width: 100vw;
+  padding: 0 100px;
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(137, 188, 255);
+  color: black;
+}
+
+.byBay {
+  font-size: 12px;
 }
