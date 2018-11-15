@@ -1,1 +1,1 @@
-bay-test-app.herokuapp.com
+http://bay-test-app.herokuapp.com
