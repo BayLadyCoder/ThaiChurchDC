@@ -32,11 +32,11 @@ class Footer extends Component {
 						<div>Connect Facebook Instagram Youtube</div>
 						<div>Hear from us ... SIGN UP</div>
 					</div>
-					<div className="footerContact1">
+					<div className="footerContact">
 						<div>Thai Church DC Location:</div>
 						<div>
-							Phone
-							<br /> Email
+							Phone: 111-222-3333
+							<br /> Email: email@email.com
 						</div>
 					</div>
 				</div>
