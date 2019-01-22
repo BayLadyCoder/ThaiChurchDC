@@ -7,25 +7,25 @@ class Navigation extends Component {
 		return (
 			<div className="navigationBar">
 				<a href="#1" className="navLogo navBtn">
-					TCCDC
-				</a>
+					TCCDC{" "}
+				</a>{" "}
 				<div class="navGroup">
 					<a href="#1" className="navHome navBtn">
-						Home
-					</a>
+						Home{" "}
+					</a>{" "}
 					<a href="#1" className="navAbout navBtn">
-						About
-					</a>
+						About{" "}
+					</a>{" "}
 					<a href="#1" className="navEvents navBtn">
-						Events
-					</a>
+						Events{" "}
+					</a>{" "}
 					<a href="#1" className="navTestimonials navBtn">
-						Testimonials
-					</a>
+						Testimonials{" "}
+					</a>{" "}
 					<a href="#1" className="navContact navBtn">
-						Contact
-					</a>
-				</div>
+						Contact{" "}
+					</a>{" "}
+				</div>{" "}
 			</div>
 		);
 	}

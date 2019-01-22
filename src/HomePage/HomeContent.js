@@ -28,9 +28,8 @@ class HomeContent extends Component {
 					2. สั่งสอนและสร้างคนให้เป็นสาวกของพระเยซูคริสต์ (Preparing and
 					equipping Christ’ s disciples) <br />
 					3. ส่งเสริมให้ทุกคนปฏิบัติตามพระมหาบัญชาขององค์พระเยซูคริสต์
-					ซึ่งได้บันทึกไว้ <br />
-					ในพระกิตติคุณมัทธิว 28: 19 - 20 (Promote the obedience of Jesus
-					command in Matthew 28: 19 - 20){" "}
+					ซึ่งได้บันทึกไว้ในพระกิตติคุณมัทธิว 28: 19 - 20 <br />
+					(Promote the obedience of Jesus command in Matthew 28: 19 - 20){" "}
 				</p>{" "}
 			</div>
 		);
